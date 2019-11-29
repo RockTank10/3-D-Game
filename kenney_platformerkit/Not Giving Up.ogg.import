@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Not Giving Up.ogg-a60a27e6958b52d0964a45e30e1265c9.oggstr"
+
+[deps]
+
+source_file="res://kenney_platformerkit/Not Giving Up.ogg"
+dest_files=[ "res://.import/Not Giving Up.ogg-a60a27e6958b52d0964a45e30e1265c9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
